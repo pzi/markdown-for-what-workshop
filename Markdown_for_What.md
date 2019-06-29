@@ -157,11 +157,11 @@ Used by millions all around the globe.<br>
 ---
 
 ## Examples
-#### WordPress (plugin[^3])
+#### WordPress (plugin[^2])
 
 ![90% inline](./wordpress.gif)
 
-[^3]: WP Githuber MD: https://wordpress.org/plugins/wp-githuber-md/
+[^2]: WP Githuber MD: https://wordpress.org/plugins/wp-githuber-md/
 
 ^ Wordpress Plugin called Githuber MD<br>
 Next, the basics...
@@ -381,6 +381,7 @@ Images are very similar to links, except they start with an exclamation mark `!`
 
 # :pray:
 
+###### Slides:<br><br>[md4what.surge.sh][md4whatslides]
 
 [cheatsheet]: https://commonmark.org/help/
 [markdown-tutorial]: https://www.markdowntutorial.com/
@@ -394,3 +395,4 @@ Images are very similar to links, except they start with an exclamation mark `!`
 [deckset]: https://www.deckset.com
 [writage]: http://www.writage.com/
 [awesome-markdown]: https://github.com/mundimark/awesome-markdown
+[md4whatslides]: https://md4what.surge.sh
