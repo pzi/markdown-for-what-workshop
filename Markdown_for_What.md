@@ -23,7 +23,7 @@ Gonna tell you what it is, why you should use it, how you could use it
 ## Who!?
 
 ![right filtered](./pzi-profile.jpg)
-![right 75%](./hatchd-logo.png) 
+![right 80%](./hatchd-logo.png) 
 
 - Patrik Affentranger
 - Front End Web Developer @ hatchd
@@ -46,7 +46,7 @@ Gonna tell you what it is, why you should use it, how you could use it
 
 - Patrik Affentranger
 - Front End Web Developer @ hatchd
-- Originally from Switzerland
+- Originally from Switzerland 🇨🇭
 - Have been using Markdown ![inline](./markdown-logo.png) 
   for the last 8 years
 
@@ -58,13 +58,13 @@ Gonna tell you what it is, why you should use it, how you could use it
 
 - Patrik Affentranger
 - Front End Web Developer @ hatchd
-- Originally from Switzerland
-- Have been using Markdown
-  for the last 8 years ...
+- Originally from Switzerland 🇨🇭
+- Have been using Markdown ![inline](./markdown-logo.png) 
+  for the last 8 years
 - ... and still :heart: it.
 
 ^ ... and I hope I can demonstrate why I love it.<br>
-But first, what is...
+But before we do that, what is...
 
 ---
 
@@ -82,7 +82,7 @@ But first, what is...
 
 ^
 *Formatting*: Headings, bold, italic, lists, links, images, tables, etc.<br>
-*HTML*<br>
+*Can transform into HTML*<br>
 *versatile*: simple notes, blog posts, documentation, books, this presentation<br>
 *15 years...*
 
@@ -327,7 +327,7 @@ Images are very similar to links, except they start with an exclamation mark `!`
 
 ## All you need is<br><br><br>
 
-## `*`  `-`  `#`  `[ ]`  `( )` `!`
+## `*  -  #  [ ]  ( ) !`
 
 
 ---
